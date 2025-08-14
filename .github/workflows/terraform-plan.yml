@@ -6,7 +6,7 @@ on:
 env:
   TF_CLOUD_ORGANIZATION: "alta3"
   TF_API_TOKEN: "${{ secrets.TF_API_TOKEN }}"
-  TF_WORKSPACE: "terraform-github-actions"
+  TF_WORKSPACE: "terraform-github-actions3"
   CONFIG_DIRECTORY: "./"
 
 jobs:
